@@ -2,8 +2,8 @@
 
 > **AI-powered git commit message generator** — Generate perfect [Conventional Commits](https://www.conventionalcommits.org/) from your staged changes in seconds.
 
-[![npm version](https://img.shields.io/npm/v/gitauto-commit.svg)](https://www.npmjs.com/package/gitauto-commit)
-[![npm downloads](https://img.shields.io/npm/dm/gitauto-commit.svg)](https://www.npmjs.com/package/gitauto-commit)
+[![npm version](https://img.shields.io/npm/v/@nguyenduc1912/gitauto-commit.svg)](https://www.npmjs.com/package/@nguyenduc1912/gitauto-commit)
+[![npm downloads](https://img.shields.io/npm/dm/@nguyenduc1912/gitauto-commit.svg)](https://www.npmjs.com/package/@nguyenduc1912/gitauto-commit)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![GitHub Sponsors](https://img.shields.io/github/sponsors/nguyenduc071912)](https://github.com/sponsors/nguyenduc071912)
 
@@ -23,7 +23,7 @@
 ## 📦 Install
 
 ```bash
-npm install -g gitauto-commit
+npm install -g @nguyenduc1912/gitauto-commit
 ```
 
 That's it. No setup required.

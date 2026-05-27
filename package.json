@@ -1,5 +1,5 @@
 {
-  "name": "gitauto-commit",
+  "name": "@nguyenduc1912/gitauto-commit",
   "version": "1.0.0",
   "description": "AI-powered git commit message generator. Creates conventional commits from your staged changes instantly.",
   "main": "dist/index.js",
