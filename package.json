@@ -1,0 +1,47 @@
+{
+  "name": "gitauto-commit",
+  "version": "1.0.0",
+  "description": "AI-powered git commit message generator. Creates conventional commits from your staged changes instantly.",
+  "main": "dist/index.js",
+  "bin": {
+    "gitauto": "dist/cli.js",
+    "gac": "dist/cli.js"
+  },
+  "scripts": {
+    "build": "node build.js",
+    "start": "node dist/cli.js",
+    "dev": "node src/cli.js"
+  },
+  "keywords": [
+    "git",
+    "commit",
+    "ai",
+    "conventional-commits",
+    "cli",
+    "developer-tools",
+    "productivity",
+    "gemini",
+    "commit-message",
+    "automation"
+  ],
+  "author": "nguyenduc071912",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/nguyenduc071912/gitauto-commit.git"
+  },
+  "homepage": "https://github.com/nguyenduc071912/gitauto-commit#readme",
+  "bugs": {
+    "url": "https://github.com/nguyenduc071912/gitauto-commit/issues"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  },
+  "files": [
+    "dist/",
+    "README.md",
+    "LICENSE"
+  ],
+  "dependencies": {},
+  "devDependencies": {}
+}
